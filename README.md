@@ -7,7 +7,8 @@ The course focuses on using modern AI toolsâ€”especially large language modelsâ€
 ## Links to open Homework notebooks in Colab
 
 [Homework 1](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework1/Homework1.ipynb)
-[Homework 1](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework2/Homework2.ipynb)
+
+[Homework 2](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework2/Homework2.ipynb)
 
 ## Questions and Communication
 
