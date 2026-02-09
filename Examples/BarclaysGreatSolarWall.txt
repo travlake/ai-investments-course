@@ -1,0 +1,929 @@
+% BARCLAYS
+
+First Solar
+
+The great solar wall
+
+FSLR's moat is getting wider with more restrictive regulatory
+policy against the competition. It will be difficult for projects
+slated to go into service in 2030 to qualify for the ITC without
+a FSLR panel and we think this gives the company leverage to
+book up 2028 and 2029 as well.
+
+Bullish datapoints from the call: 1) Bookings totaling 2.1 GW with implied ASP of $0.32-0.33/w.
+Although this includes the impact of a cancellation payment, we think it's still a positive
+indicator for where pricing is trending, especially since the bulk of this booking was for
+Southeast Asia Series 6 panels. Domestic modules typically have gone for about a 5 cent
+premium to the SE product while S7 product also sells for a premium to S6. Pricing power for
+FSLR also likely increases for deliveries beyond 2026; 2) Bookings of 2 GW in July alone, mostly
+for deliveries next year, but positions FSLR to book up the open capacity left remaining through
+2030, especially as a FSLR panel is necessary for safe-harbored projects that are slated to go into
+service in 2030; 3) AD/CVD, Section 232, and increased UFLPA enforcement only increases the
+uncertainty around pricing and availability of future Chinese panels for the projects that are
+being safe harbored by YE25 (as FEOC doesn't apply through 12/31/25) if the customer is only
+purchasing 5% today and taking delivery of the remaining equipment needs at a later time.
+
+Bookings for the quarter are strong with respect to volume and price: FSLR reported 2.1GW
+of bookings in the month of July, a threshold it hasn't crossed since 1Q24, and noted an
+increase in activity following the enactment of OBBB. The implied ASP was $0.32-0.33/w. While
+implied ASPs of prior quarters have been in the ~$0.30-0.31/w range, we would note that the
+number is usually a blend of US (which sells for a higher ASP) and SE Asia supply (which sells for
+a lower ASP). From what we gather, the 2 GW is mostly SE Asia Series 6 panels and while it
+includes the cancellation payment from a de-booking that got re-booked, we still think it's a
+positive indicator for where pricing is trending, especially if we factor in that domestically
+produced panels go for a ~$0.04-$0.05/w premium to the SE Asian manufactured products. A
+large portion of the 2.1 GW was from a single customer, trying to fill in for a canceled delivery
+from a Chinese manufacturer needed for 2026. This customer does present them with the
+opportunity for much larger follow-on bookings in the future and it was notable that this was a
+customer that FSLR hasn't sold to in several years. A smaller amount of the bookings was
+related to safe harboring to lock in tax credits prior to the release of updated Treasury guidance.
+It would appear that this customer booked the amount needed to qualify under the 5% rule and
+if that's the case, we would expect this customer to come back to book the remaining supply,
+
+ 
+
+which would be a much bigger size, needed for the project at a later time.
+
+Moat gets wider and we think there is line of sight for FSLR to get fully booked through
+2030: For developers that are planning to safe harbor projects to place in service in 2030, it's
+
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should consider this
+report as only a single factor in making their investment decision.
+
+Please see analyst certifications and important disclosures beginning on page 7.
+Completed: 01-Aug-25, 03:09 GMT Released: 01-Aug-25, 10:00GMT __ Restricted - External
+
+Equity Research
+
+North America Clean Technology
+
+1 August 2025
+FSLR OVERWEIGHT
+Unchanged
+
+North America Clean
+
+Technology POSITIVE
+Unchanged
+Price Target USD 216.00
+Unchanged
+Price (31-Jul-25) USD 174.73
+
+Potential Upside/Downside +23.6%
+Source: Bloomberg, Barclays Research
+
+Market Cap (USD mn) 18738
+Shares Outstanding (mn) 107.24
+Free Float (%) 94.53
+52 Wk Avg Daily Volume (mn) 3.2
+Dividend Yield (%) N/A
+Return on Equity TTM (%) 16.77
+Current BVPS (USD) 76.34
+
+Source: Bloomberg
+
+Price Performance Exchange-Nasdaq
+
+52 Week range USD 262.72-116.56
+
+300
+250
+200
+150
+100
+
+Oct-2024 — Jan-2025——Apr-2025 jul-2025,
+
+Source: IDC
+Link to Barclays Live for interactive charting
+
+North America Clean Technology
+Christine Cho, CFA
+
++1212 526 8419
+christine.cho@barclays.com
+
+BCI, US
+
+Thomas Roche, CFA, CPA
++1212 526 9750
+thomas.roche@barclays.com
+BCI, US
+
+Liam Duggan, CFA
+
++1212 526 5416
+liam.duggan@barclays.com
+BCI, US
+Barclays | First Solar
+
+1 August 2025
+
+important to note that those projects will need FSLR modules (or at least a domestically
+manufactured cell) in order to qualify for the ITC. These projects would have to be safe harbored
+on or after 1/1/26 but before 7/4/26 and during that timeframe, FEOC restrictions will
+
+apply. This gives FSLR some leverage, in our view. Deliveries for 2030 will be in high demand due
+to this nuance and we would expect FSLR to use this as leverage to have customers also take
+deliveries in earlier years, such as 2028 and 2029. We would point out that FSLR did something
+similar in past year, except the timing was reverse - customers needed FSLR panels more
+immediately and agreed to also take on more supply in future years where there was still some
+available capacity that the company was looking to book. Even beyond this dynamic, we would
+note that the policy backdrop that is increasingly becoming more restrictive provides additional
+tailwinds as the pending Section 232 investigation, the likelihood of additional AD/CVD tariffs on
+India/Laos/Indonesia, and rising UFLPA enforcement will all increase the price and decrease the
+availability of alternative panel supply.
+
+Higher than expected tariffs make the buildout of finishing capacity highly likely at this
+point, possibly as early as mid-2026: With tariffs for India, Malaysia and Thailand in the 20%+
+range rather than something in the 10% range, we expect the company to build finishing
+capacity in the US. This would accomplish 3 things: 1) lower the tariffs paid by 2/3rd as the
+declared value for the semi-finished good would be something in the teens rather than
+$0.30/w+ for a completed module; 2) enable FSLR to collect $0.07/w of 45X credit, which should
+also help economics, and 3) produce a product with some domestic content. FSLR would be
+able to move some of the equipment for these processes from SE Asia fairly quickly and we
+think it can be up and running by mid-2026. We also think the company would elect to do this
+for their India production as well, but it would take longer.
+
+Topline increases for the guide, the bottom line range narrows: FY25 sales was raised from
+$4.5bn-$5.5bn to $4.9bn-$5.7bn (a midpoint rise of $300mm), as recent policy and trade
+developments have lifted the bottom end of FSLR's volume sold forecast to 16.7GW from
+15.5GW (the top remains the same at 19.3GW). The gross margin forecast, while narrower in
+range, kept the midpoint steady at ~$2.2bn (from $1.96bn-$2.47bn to $2.05bn-$2.35bn). This
+represents a drop in FY gross margin of about 3% at midpoint, from ~44% to ~41%, mostly
+attributable to the updated tariffs. FSLR's operating expense forecast increased
+commensurately with the increase in sales estimates, leading to an operating income projection
+with narrower ranges but a similar ~$1.7bn midpoint (from $1.45bn-$2bn to $1.53bn-$1.87bn).
+EPS estimates also narrowed from $12.5-$17.5 to $13.5-$16.5, with $15 midpoint remaining
+unchanged. The net cash balance expectations increased significantly, from $0.4bn-$0.9bn to
+$1.3bn-$2bn, as the previous guidance did not include any monetization of 45X tax credits.
+Looking to 3Q, FSLR expects to be able to sell between 5GW and 6GW of modules, including the
+2.1GW in July.
+
+FSLR beats the quarter from top to bottom: FSLR reported 2Q revenue of $1.1bn, which
+topped consensus/BARC at $1.04bn/51.03bn, as they were able to sell 3.6GW of modules in the
+quarter (vs. the guide of 3.0GW-3.9GW). Gross margin for the quarter came in at $500mm, or
+45%, higher than Street/BARC of 41%/41%. This margin beat led operating income to
+
+$361mm, measurably above consensus and our model, at $297mm and $292mm, respectively.
+Adjusted diluted EPS was posted at $3.18, again beating out Street/BARC at $2.66/$2.78. FSLR
+reported a 2Q cash balance of $1.12bn, just behind BARC at $1.13bn, and meaningfully ahead of
+consensus at $946mm, as the company sold $312mm worth of Section 45X credits for proceeds
+of $296mm. FSLR recently announced another $391mm sale of 45X credits, which will be paid in
+three installments over the course of 2025.
+Barclays | First Solar
+
+1 August 2025
+
+Price Target: Our unchanged price target of $216 is based on $80 of 45X credits (unchanged)
+tied to the wafer, cell, and module, and a ~10x P/E multiple (unchanged) on our 2027E EPS of
+
+$13.57 (ex tax credits) (vs. $13.58 prior).
+
+FSLR: Quarterly and Annual EPS (USD)
+
+ 
+
+2024
+FY Dec Actual
+Qu 2.20A
+Q2 3.25A
+Q3 2.91A
+Q4 3.65A
+Year 12.02A
+P/E 14.5
+
+Old
+1.95A
+2.78E
+4.56E
+5.81E
+
+15.11E
+
+2025
+New
+1.95A
+3.18A
+4.68E
+4,.76E
+14.57E
+12.0
+
+Cons
+1.95A
+2.66E
+4.45E
+5.86E
+15.06E
+
+Old
+3.72E
+5.76E
+6.19E
+8.07E
+
+23.75E
+
+2026
+New
+3.70E
+5.71E
+6.16E
+8.11E
+23.68E
+TA
+
+Consensus numbers are from Bloomberg received on 31-Jul-2025; 12:50 GMT
+
+Source: Barclays Research
+
+Cons
+4.52E
+5.28E
+6.15E
+7.25E
+22.80E
+
+Change y/y
+2025 2026
+-11% 90%
+-2% 80%
+61% 32%
+30% 70%
+21% 63%
+Barclays | First Solar
+
+ 
+
+North America Clean Technology
+First Solar (FSLR)
+
+Income statement ($mn)
+Revenue
+
+EBITDA
+
+Net income
+
+EPS (adj) ($)
+
+Diluted shares (mn)
+
+DPS ($)
+
+Growth and margin data
+Revenue growth (%)
+Gross margin (%)
+
+EBITDA margin (%)
+
+Balance sheet and cash flow ($mn)
+Cash and equivalents
+
+Total debt
+
+Net debt/(funds)
+
+Cash flow from operations
+
+Capital expenditure
+
+Free cash flow
+
+Valuation and leverage metrics
+P/E (adj) (x)
+
+EV/sales (x)
+
+EV/EBITDA (x)
+
+FCF yield (%)
+
+Dividend yield (%)
+
+Net debt/EBITDA (x)
+
+Total debt/capital (%)
+
+Enterprise value (mn)
+
+Selected operating metrics
+Capacity (MW)
+
+Modules produced (MW)
+
+Module shipments (estimated) (MW)
+Module ASP (estimated) ($/W) ($)
+Module gross margin (%)
+
+System shipments (estimated) (MW)
+System ASP (estimated) ($/W) ($)
+System gross margin (%)
+
+Blended gross profit ($/W) ($)
+Note: FY End Dec
+
+2024A
+4,206
+1,817
+1,292
+12.02
+108
+0.00
+
+2024A
+26.7
+44.2
+43.2
+
+20240
+1,810
+610
+-1,200
+1,218
+-1,526
+-308
+
+2024A
+14.5
+
+4.2
+
+9.7
+
+-18
+
+0.0
+
+-0.7
+
+71
+17,567.2
+
+20240
+21,200.0
+14,100.0
+14,100.0
+0.30
+44.3
+
+0.0
+
+0.00
+-79.4
+0.13
+
+Source: Company data, Bloomberg, Barclays Research
+
+1 August 2025
+
+2025E
+5,038
+2,134
+1,567
+14.57
+108
+0.00
+
+2025E
+19.8
+42.2
+42.3
+
+2025E
+2,233
+578
+-1,655
+1,325
+-1,254
+71
+
+2025E
+12.0
+
+3.4
+
+8.0
+
+0.4
+
+0.0
+
+-0.8
+
+So
+17,112.4
+
+2025E
+22,500.0
+16,795.8
+16,795.8
+0.30
+42.2
+
+0.0
+
+0.00
+N/A
+0.13
+
+2026E
+6,608
+3,270
+2,555
+23.68
+108
+0.00
+
+2026E
+31.2
+47.9
+49.5
+
+2026E
+4,265
+578
+-3,687
+2,982
+-950
+2,032
+
+2026E
+74
+
+2.3
+
+4.6
+
+13.5
+
+0.0
+
+“1.1
+
+4.6
+15,080.3
+
+2026E
+25,200.0
+22,430.1
+22,430.1
+0.29
+47.9
+
+0.0
+
+0.00
+N/A
+0.14
+
+2027E
+8,403
+4,942
+3,892
+35.96
+108
+0.00
+
+2027E
+27.2
+57.4
+58.8
+
+2027E
+4,782
+578
+-4,204
+1,444
+-927
+517
+
+2027E
+49
+
+L7
+
+2.9
+
+3.5
+
+0.0
+
+-0.9
+
+3.5
+14,563.6
+
+2027E
+25,200.0
+25,048.4
+25,048.4
+0.34
+57.4
+
+0.0
+
+0.00
+N/A
+0.19
+
+CAGR
+25.9%
+39.6%
+44.4%
+44.1%
+0.2%
+N/A
+
+Average
+26.2
+47.9
+48.5
+
+CAGR
+38.2%
+-1.8%
+N/A
+5.8%
+N/A
+
+N/A
+Average
+9.7
+
+2.9
+
+6.3
+
+3.9
+
+0.0
+
+-0.9
+
+5.2
+16,080.9
+
+Average
+23,525.0
+19,593.6
+19,593.6
+0.31
+48.0
+
+0.0
+
+0.00
+-79.4
+0.15
+
+POSITIVE
+
+OVERWEIGHT
+
+Price (31-Jul-2025) USD 174.73
+Price Target USD 216.00
+
+Why OVERWEIGHT?
+Short/intermediate-term demand
+for domestically sourced modules
+remains strong, driven by customer
+demand for products that will
+enable them to benefit from the
+10% domestic content adder. This
+has enabled revenue visibility
+through 2025 and stable/slightly
+increasing ASPs, along with
+increasing gross margins.
+
+Upside case USD 269.00
+We assume an 14x P/E multiple on
+our 2027 EPS estimate, plus an
+additional $80 from potential
+
+manufacturing credits.
+
+Downside case USD 120.00
+We assume a 3x P/E multiple on our
+2027 EPS estimate, plus an
+additional $80 from potential
+
+manufacturing credits.
+
+Upside/Downside scenarios
+
+Price History Price Target
+Prior 12 months Next 12 months
+High Upside
+262.72 269.00
+
+Target
+216,00
+Current
+174.73
+
+ 
+
+116.56 120.00
+
+Low Downside
+Barclays | First Solar
+
+FIGURE 1. FSLR - Income Statement
+
+on ono a aoe rare 200%
+
+ 
+
+  
+
+ 
+
+   
+
+Mode ors} 06] soz] 1460] 173] 231] 2428] 3.207] 4203] eas, 007 1876 152i] sone] 1641505 16332217] oe] 1307 2058 2029-2019] aca]
+systems 22ze] 23s] 1.742] 1603] 975] sen] 2| | ° ° ° d ° ° ° ° o q ° ° ° q G
+Net Sales 2905] 2941 2244 3063211] 2923| 2619| 3319] 4206] «4s 087 1578 152i] S038] 1tse 159516332217] 608] 139720582028 2919] 8.403)
+Mode ses] 60s] 552] nro] 1307] tase] 23s] 2019) 2342] soos? ge s79| 010) oa waz 1.tss| aaa] asa es 1200) as
+systems 1700} 69a) 1200] nes] 725] as] ae] | ° ° ° q 0 ° ° ° q q ° ° ° q |
+Cost of Operations 2266] 2392| 1852| 2515] 2031] 2,93] 2,549 zss] 5009793479] 210] 38 a2, 8s tss}] 34a] asst 63 200] 3.s78
+Moeule Goss Morn, % ess} 146] -10%| 20% 2555 20%5| a ee a
+‘Systems Gress Margin, % za] 20%! 2596/1696] 26] ase] 248
+
+Gross Prof 3s] ss] 382) sa gsi 730 no| ue soo saz sas|_ tas] 5257648181062) 3,t68| © 771169165719) 4825)
+cross Margin 6 22m] 19%! 17% 8%] 25m] sss] 41% 40% 41% RK! asa SON am] am] SHS SH 5m] OTH
+scan 26a] -203] -177|—-20s|-22a] 170] -165 s3 ee ee ee ee ee
+Rap 125] 9] ae] op] nu] ao] ang “2 or
+Production Star Up alte] oo] aaa a} onl a] ae a on ay 70) ° ° ° E ° ° ° | |
+Restructuring and impairments so] 27] 5 q q q q q o| ° ° ° q ° ° ° ° q ° ° ° ql C
+other d q of 30 4 q of al | ° ° ° q ° ° ° ° q q ° ° ° ql |
+‘Operating Costs and Expenses 1207) an} ase] ams] a6] 290] asi) aaa] ass] 123, tah stg tng] 499] -t07, tt tag aaa] ttt err sata} as
+er “soa, -t2),— a7), aa0) ai! as7) a0] 221 a2 sk 522628, BSA 70646) 724) 6601087 10491600) 4366
+BBITMagn, % 20m! oms|2m6| sm] rz] 5s -17%9| 20m] gam] 208 sam sae ues am] som sim am aa] arm] arm sim sm som 205
+EBTDA an} 330] 171] aa] 550] ga9| an] tgs] ts7] a7 485505] 2t3) 551-790 waa tons] 3270] ©2120 «1194 1746] 4840]
+BITDA Marg, % r7%| 11%8| | 136] 20m] 2ses| ome] asm] same] 516 aes a6] am] am som 52m som] ao] 57m ete sm como
+Interest pense a} 2 ao) So] zs ts] tp] ta] as, 10 ° 9 s| 36 9 8 9 s| a5] 9 s| as
+Interest icome 2s} ae | of toe] 0 2 lil " n " nf af " " nf a
+Other Expenses, Net oa] a] 7) tao] zea] sif ao] a 12 5 4) as 1 4 1 Jf 1 4 4 | |
+ther (Expenses) ncome ee) 33] 60] aa] zi oon 3) o 1 1 1 | 5| 1 1 1 2| 5|
+‘Gain(Loss before income Tax 4m) 23 23s 9) asi] aoe] 173823528) t629, ats 707 sas) 2729) st 1081080162) aa71
+Income Tat (Expense) Benet sa] ara] 3) s} 107] -103] san] -at * 10-3 ee ee ee ee ee ee ee
+Income Tax Rote 12% 190%| a] 5] -a7m| 1%] cram] moms] ate ame ses 25m] ae] 25m 255 25m 25m] amass asm asm see
+amings (L255) Related to Equity Investments 17 | asl 1 El °| q q o| ° ° ° q q ° ° ° C q ° ° ° o| |
+Net income (Loss) -358| aa) ses) ass] tal gst] t292] 210 saz_s0s 521567, 599616 esa 876) 255s] sez was gat
+
+Ps (pitted) -3.48| 136 374430] -oai| 774) tor] 19838 4e8 476) tas7, 37057116 wtt| 23a] 54872 wea 15.12] 596!
+Weighted Average Saves Dut ¢nn shares) raza] _1ose| _10se| 1055] _1086| _1088| 1087] _074|__sors| rors 107s __ tons _1077|_10rss| __1078__107a__sor9__1080| __107s| 1081 __1082__1083 ‘108i 1082]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: Barclays Research, Company Filings
+
+FIGURE 2. FSLR - Cash Flow Statement
+
+   
+
+oo peed
+
+rere
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reported Net income ase] 16] 14a] te] a9) ago] aa] aan] 292] 210 nasa stz]— ser] 309 ware) 25ss] 502 tua 26 naat| ae
+Deprecation and Amortzation zai] ns} at} 208] 233] 260] 270) an] azs] 252s nz Sos nat naka] Sas] tas]
+‘Share-Based Compensition 2] as} aft xf 2 7 1 ww of 1 ww 5 wf sel 13 4 5 rf Sal
+Defered income Tax rf aa] ag} xf sofa] si] sl s 1 ° q | ° ° ° G q ° ° ° 4 |
+Working Capital charges
+‘Accounts reenable, trade and unbiles 202] rs as]! sr] ental 306] sos] 307, trot wo, at0], att sf ef zoo 2 sf os
+eventos 257] ta) nas] -t36] to] 208] arr] aos tzn oats of 430] ue, -t08 tas] aet] zz asst aa] a
+Project arsetsand PV solar powersystems so] 981 sol -2], 107] as] q | ° ° ° q p ° ° ° p q ° ° ° | p
+CCovernment grants reenable oo] 2709 78 125s] aus] ato -a72 a0 1200) 26-79-51 560 te] 2309
+Other assets (current and noacurent) -s6| a} x] so) e] al ons °
+come tax recehable ad payable 5) fan] a 4| 6 4
+Accounts payable 6 of a] as Ce ee a | ne er)
+Deferred Revenue oie] 703 a 9
+Accrued expenses and other abies re ee ee 7 46
+other ma] 201] 300] -rso]_—— sr] -t20 rao ° 1 ° d 1 ° ° A d ° ° ° o| |
+
+‘Cash Flow from Operating Avis zov| sei] 327] zal a7)—238) rs “sss 50] 1825 40-50-2553) 20a] a6 zest ——i7a7|—vaaa
+pPae zo] sis] 740) 669] sso] sos] -ase7] 1526] 208. ans, a7 ats] ass] aap -zas, 2a] aso] -zse zeae ae]
+‘Asset Investments - Sales /Purchass, Net 2 of al q of 00], aaa q | ° ° ° q p) ° ° ° p q ° ° ° 4 |
+other ea] -rr2|__ 90] __ 306265] saint] sna sr] 26 ° of 44 ° ° ° A d ° ° ° o| o|
+
+‘Cash Fow from Investing Aaivites v4s| 627] 60s] 302-131] 99) 93) a73| 1303-8 ze 3778s] tt0] zat 239238 a2] -as0) zzz sas]
+Debt Borowing| 2] aus] sn] tao] ts] 25] ax], as] asa], gz st ° of sar] ° ° ° B q ° ° ° | |
+Debt- Repayments sual 29] tg) ao] 225] ral o| 206] 17668 ° of 2a ° ° ° p q ° ° ° 4 |
+‘commen Den Payments C q Gl q q o| q q | ° ° ° q ° ° ° ° 5 q ° ° ° d| |
+uty lsuances /Repurchaees, Net q q 5 q q o| q q | ° ° ° q p ° ° ° C q ° ° ° 4| |
+other 2 17 rs] tale voi] zee ° ° of _-r6 ° ° ° A q ° ° ° | |
+
+“Cash Fow from Financing Activites a6] 192| 255] 7s|_—a| at] gos] az7]_—as|_— 00a ° ola ° ° ° | d ° ° ° q |
+Net Changeincash 215| 905966] 754] ana] ar] 9 ro] 466-320] -706 335797] 5e2| 2612592882322] 082] ser wots], 17]
+‘FxyOtherimpact/Change saz —_-t4 3 4 | 4 5| «| 2 2 ° d | ° ° ° p q ° ° ° | |
+
+‘Casha aul. nck Resticted- Beg. of Period 1207| 1415690] 2330] 1563] 14a7|— a7] 1436] 1493] t90s| es sae 8037] 1638) 22041943) 2204 423636684359 az
+
+‘cash Equiv neh Resticted- End of Period satel 2330476] 1563] __1aa7|__ 1274) 1436] 1493] 1965|__t638|__sea__tg0__1.237__ 22042204] 2202 426] 365843594187 4732
+
+    
+
+ 
+
+Source: Barclays Research, Company Filings
+
+1 August 2025 5
+Barclays | First Solar
+
+FIGURE 3. FSLR - Balance Sheet
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cred a ee a ee i ee aa
+Current Assets
+
+Cash and Equvaients ize] 2265] aoe] nasa] razr} ast] ast] toe] teat] a8 iis) 2s) 24s] tas 2471859418] st8of 3613403132 gear] 487)
+Restreted cashecurent fe | | 4 4 4 ° se 3 ef 8 a ot wt al
+Restcted cash -noncurent ee 4| J a J 6 7 7 7| q 7 7 7| | 7 7 7 1| 7|
+Marketable Sects eos} rao) tes} te] san), ars to97] ts) ar] sk ce ae ne a 2 al om ll
+Accounts Recevable Trade. Net vr] as] as] azo} az] cei] nasi] tgs nana tsa] ssa] sts 188 veer] 1667] 1707616581745] 1745
+‘Accounts Receivable, UnbiledandReacage ee ee ee aly q q ° ° ° q ° ° ° q q ° ° ° 5 q
+Government grarts receivable net ee ee ee a
+Inverter xa] 172 aus] asa] seal oss] cz] az}, tces} 28s tate 1515] t529] 176.782 1959170] t770f 249798281 22m) aaa
+Batnceof Systems Pats ee | | 4 ° ° ° q ° ° ° q 4 ° ° ° o| d
+Projets Assets m ae) 4 | q o ° ° q ° ° ° q o o ° o| q
+Notes Receivable, fists 1s] ol q q q o ° ° q ° ° ° q q ° ° ° o| q
+Presid Expense and Other Cunt Assets zn] ar] 2a] asa] goes] ze] 30) sar] sr? gaz gaz nwo] gz waz awa] ae} waz wesw on
+Total Current Assets 378s] 38e4] 3909] 3680] 3059] 3.195] 3.800] 463s] 5.080] 4574 sara 5,556 6.204 6294] 6348 6547 Gas? seis] ste 8018986 9335 12.101] 12,101
+PPAE Net es} ass] 1.756] 281] 40a] 250] a7] aaa] sate] sess 57235973228] eas] 355 osu so] asso] 5723 giz 09 ges] st
+PV Sala Power System Net 4] av] a5], ae] za] a 4 q q ° ° ° q 4 ° ° ° q ° ° ° A q
+Propet Assets 72} 2s] so] ae] aral ats] ao) alsa 2 mee] Som ell
+Deferred Tax Assets Net as} sil! re] at] to] al we] moo] 208 mas asa] 2am, mas, mos 20s ms| «S|, 0s ms Sms ems]
+Resticted Marhetabie Secures zi] 425] aie] e]— 25s ts] ta] tgs) naa, 2h ats atl ozs ose ata] tele ate 22a
+Investments in Unconsotited Aft eV zs} 220) q q A 4 ° ° ° q ° ° ° q ° ° ° | q
+Coed ult nate] ah aoe] a aoa} alot re a ee) a] at
+Intangible Assets, Met a } af os) ss] a a | i
+verter vo} 113] na0] tsi 201] 238] 260) 207] ars] 2770S aS a70] 20], 20S 20 «20S 20) 27], «S270Ssso0sS270] 220
+Notes Receivable, Affiates ss} ae} q Bl q q ° ° ° d ° ° ° 4 | ° ° ° | q
+CCovernmertgrarts ecehable rs] tse] g30 2892s ta] t36] 8 was ta a7 a7] anuj 24)
+Other Assets rao} -as]_ ro] at} waste] ee es|_ 55,
+Tout Aete az] aes 7azi|75re| 7.09) aval a25i| 036s] r2.rza|_ 12.117 1258 13.250 13.859] 13850] 14335 15.105 156168 ese] neal 17.198 18054 zoe] 205344
+‘Corre Libis
+
+Accounts Payable vas} tzo] 253] ts| ass] tas] sei] 07) ao] gues 2st zs] zs] 38752759395) 30] assez asta] 20
+Income Tare Payable nl al val seo] 2 9 a
+Accrued Expenses 23) as] ao] asi], atof ase) ass]_ sas} sas] sss 53053) so] sus s03 503503) soa] sos, s3, 583 us]
+Curve Porton of.ong Teo Debt 2} J fa 4| | 236] 157250250250) 2s] 250» 250» 250280] 260), «250 250250250)
+Deferred Revenue wos] sx] to] zs] tas a] 2s] aia) 712] a2 t058— 10581058] 05s] 1058 «10581058 tase] pss] ©1058 105810581058) 1.058)
+Other Curent Lables 7, ao] wt aoe toe]!, as] a} si] ss S05 50s 505) 50s] S05 S05 505505) sos|_ «50s, 50850555]
+Tota Current Lables sos] sol as] tis ser] 727] 1038] 1306] 2077] 2372 28532726 2,808] 2808] 2872 30122844 ©2880) 2880| 2924 2827 2.803 2729] 2,729
+Accrued Soar Module Colecton and Racycing Labilty ves} ter] 3a zat] tsa] tama) tae] tas tas tas] ass ass as) tas] as ass tas]
+Long-Term Debt veo] aso] sei, asa ze] ao teaf toa] ara]_— a8 28 aze za za] a8 a8 28528] aza| 2828 a8 aza| 32
+Deferred Revenue os] 502] taza eso 70s 765765 765765763765) m5 765765765
+
+Other Libis sri] sss] ass] soo] arf asa] wil ae] 232 axes] mae}, kaka}, e] mamta] and
+“ota Lisbites| 14606] 1766] 1900] 2419] tsa] 1454] ats] 3.678 ata] 39794312486 4.267| | az67] 4st 44743034350] asso] 43ee 4.787 4353 48s] 4189
+Paitin Capt 27s] 2700) 245] 2a] 2867] 2871] 2887] 2901] 200] zens © 03-2008 ©2924) 2924 283729512966 ©2982) 2082] 2995 3008 3024 3040] 3040
+Accumulated Ernings 243] 2297] 2402 2327] ari] 38s] 340] 3971) Sas] sara at7~—ga0] asso] 72287844 son 938s) 98s] 9977 10048561277] 13277
+‘Accumulated Othe Comphensive Income (Loss) 19} J ssf ao] safc} aga] eare) taal a7) t ten ten] tr] tent) -tgt 16] tei! 61 -tgt te -t6i] 161
+Shareholders Equity si2ie| 5099] s2rz|__sos7] ssi] 5959] 536] 6687|7.978| 81878546 9054 9,392| 9.592] 10.008 10634 1131312205] 12205] 12810 13,767 1471816156] 16,156
+Unies & Shareholders Equly Gaz] aes] rian] 75ref 7.109] aval azo] 10365 12.124 12.117 12858 13.250 1385913859 14535 15,105 15616 Teed 6544 17,108 Tas 1907170388 20.348
+
+ 
+
+Source: Barclays Research, Company Filings
+
+1 August 2025 6
+
