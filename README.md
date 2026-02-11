@@ -12,6 +12,8 @@ The course focuses on using modern AI toolsâ€”especially large language modelsâ€
 
 [Homework 3](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework3/Homework3.ipynb)
 
+[Homework 4](https://colab.research.google.com/github/travlake/ai-investments-course/blob/main/Homework4/Homework4.ipynb)
+
 ## Questions and Communication
 
 Course communication (announcements, questions, office hours, discussion) is handled via **Discord**, not GitHub Issues.
