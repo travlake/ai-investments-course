@@ -16,6 +16,8 @@ The course focuses on using modern AI toolsâ€”especially large language modelsâ€
 
 [Homework 5](https://platform.noyesai.com/case-share/85ffb65c-14cb-45a4-9d12-745ac2d3cd3f/e62-capital-management)
 
+[Homework 6](https://github.com/travlake/ai-investments-course/blob/main/Homework6/Homework6.md)
+
 ## Questions and Communication
 
 Course communication (announcements, questions, office hours, discussion) is handled via **Discord**, not GitHub Issues.
